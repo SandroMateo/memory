@@ -1,0 +1,29 @@
+.clicked {
+  color: #fff;
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+
+tbody {
+  min-width: 60px;
+  display: block;
+  margin-left: 15em;
+  margin-top: 10em;
+}
+
+td {
+  width: 150px;
+  height: 200px;
+  border: 5px solid white;
+}
+
+.chosen {
+  display: block;
+  width: 150px;
+  height: 200px;
+  margin: auto !important;
+}
+
+.container {
+  text-align: center;
+}
